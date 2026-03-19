@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Emmanuel 👋
+
+🎯 Aspiring Cloud Engineer  
+💻 Web Developer (HTML, CSS, JavaScript, Python)  
+📍 Currently learning and building real-world projects  
+
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- Python (learning)
+
+## 📂 Projects
+- Tic-Tac-Toe Game 🎮
+- Calculator App
+- Login System
+
+## 📫 Contact Me
+- (Add later)
 
 <!--
 **Emmanuelngomemesue/Emmanuelngomemesue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
